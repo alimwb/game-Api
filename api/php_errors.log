@@ -1,0 +1,1576 @@
+[02-Apr-2024 08:59:04 UTC] PHP Warning:  Undefined property: stdClass::$count in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 08:59:04 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 08:59:04 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[02-Apr-2024 08:59:04 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 56
+[02-Apr-2024 09:00:12 UTC] PHP Warning:  Undefined property: stdClass::$count in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 09:00:12 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 09:00:12 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[02-Apr-2024 09:03:21 UTC] PHP Warning:  Undefined property: stdClass::$count in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 09:03:21 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 09:03:21 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[02-Apr-2024 09:05:02 UTC] PHP Warning:  Undefined property: stdClass::$count in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 09:05:02 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 09:05:02 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[02-Apr-2024 09:06:34 UTC] PHP Warning:  Undefined property: stdClass::$count in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 09:06:34 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 09:06:34 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[02-Apr-2024 09:59:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[02-Apr-2024 09:59:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[02-Apr-2024 10:00:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[02-Apr-2024 10:00:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[02-Apr-2024 10:01:08 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[02-Apr-2024 10:01:08 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[02-Apr-2024 10:49:47 UTC] PHP Warning:  Attempt to read property "count" on null in C:\inetpub\wwwroot\rest\api\create.php on line 18
+[02-Apr-2024 10:49:47 UTC] PHP Warning:  Attempt to read property "phone_id" on null in C:\inetpub\wwwroot\rest\api\create.php on line 19
+[02-Apr-2024 10:49:47 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 35
+[05-Apr-2024 10:03:05 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:03:05 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:16:35 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:16:35 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:17:12 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:17:12 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:21:18 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:21:18 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:21:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:21:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:21:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:21:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:22:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:22:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:22:43 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:22:43 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:22:46 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:22:46 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:26 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:26 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:54:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:54:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 10:55:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 10:55:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 11:10:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 11:10:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 11:43:19 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 11:43:19 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:14:23 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:14:23 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:11 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:11 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:18 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:18 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:25:27 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:25:27 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:26:04 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:26:04 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:40:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:40:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:41:05 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:41:05 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:42:19 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:42:19 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:47:37 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:47:37 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 13:49:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 13:49:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 14:07:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 14:07:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 14:07:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 14:07:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 14:07:50 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 14:07:50 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[05-Apr-2024 14:07:54 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[05-Apr-2024 14:07:54 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:49:36 UTC] PHP Warning:  Undefined property: stdClass::$phone_id in C:\inetpub\wwwroot\rest\api\delete.php on line 18
+[07-Apr-2024 06:49:36 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 126
+[07-Apr-2024 06:49:59 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\inetpub\wwwroot\rest\class\employees.php on line 126
+[07-Apr-2024 06:52:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:52:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:52:50 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:52:50 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:52:54 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:52:54 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:53:32 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:53:32 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:53:32 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:53:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:53:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:53:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:53:34 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 90
+[07-Apr-2024 06:53:34 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:53:34 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:54:58 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[07-Apr-2024 06:54:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:54:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:54:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[07-Apr-2024 06:55:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 91
+[07-Apr-2024 06:55:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 92
+[07-Apr-2024 06:55:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[07-Apr-2024 10:41:43 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\inetpub\wwwroot\rest\api\update.php on line 18
+[07-Apr-2024 10:48:06 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\inetpub\wwwroot\rest\api\update.php on line 18
+[07-Apr-2024 14:02:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 14:04:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 14:04:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 14:04:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 14:05:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 14:05:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'date_last_modified' doesn't have a default value in C:\inetpub\wwwroot\rest\class\employees.php:70
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\class\employees.php(70): PDOStatement->execute()
+#1 C:\inetpub\wwwroot\rest\api\create.php(22): Employee->createEmployee()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 70
+[07-Apr-2024 21:15:26 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[07-Apr-2024 21:15:26 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[07-Apr-2024 22:24:43 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[07-Apr-2024 22:24:43 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[07-Apr-2024 22:24:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[07-Apr-2024 22:24:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:20:32 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:20:32 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:20:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:20:33 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:20:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:20:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:20:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:20:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:23:30 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:23:30 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:23:31 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:23:31 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:33:46 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:33:46 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 00:33:47 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 00:33:47 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 02:03:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 02:03:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 02:03:15 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 02:03:15 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:24:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:24:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:26:10 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:26:10 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:36:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:36:24 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:36:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:36:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:38:30 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:38:30 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:38:31 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:38:31 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:39:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:39:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:39:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:39:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:40:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:40:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:40:01 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:40:01 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:42:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:42:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:42:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:42:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:43:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:43:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:44:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:44:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:47:47 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:47:47 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:47:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:47:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:49:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:49:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:49:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:49:21 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:50:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 04:53:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 04:53:00 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 05:57:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 05:57:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 11:44:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 11:44:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 11:51:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 11:51:40 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 11:55:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 11:55:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 11:56:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 11:56:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 11:57:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 11:57:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 12:04:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 12:04:44 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 16:49:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 16:49:45 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 16:55:41 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 16:55:41 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 17:09:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 17:09:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[08-Apr-2024 21:36:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[08-Apr-2024 21:36:14 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[09-Apr-2024 03:37:09 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[09-Apr-2024 03:37:09 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[13-Apr-2024 11:53:04 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[13-Apr-2024 11:53:04 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[13-Apr-2024 14:23:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[13-Apr-2024 14:23:48 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[18-Apr-2024 04:09:36 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[18-Apr-2024 04:09:36 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[18-Apr-2024 11:19:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[18-Apr-2024 11:19:59 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[18-Apr-2024 11:28:20 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[18-Apr-2024 11:28:20 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[18-Apr-2024 11:33:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[18-Apr-2024 11:33:42 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[19-Apr-2024 06:22:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[19-Apr-2024 06:22:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[22-Apr-2024 11:13:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 15:15:53 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-Apr-2024 11:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 15:16:22 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-Apr-2024 11:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 15:16:39 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-Apr-2024 11:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 15:17:55 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-Apr-2024 11:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 15:18:58 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-Apr-2024 11:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 11:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 12:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 12:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 13:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 13:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 13:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 19:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 19:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-Apr-2024 19:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 05:23:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 05:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 05:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 05:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 10:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:03:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:20:45 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 11:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 11:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:28:40 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 11:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:29:12 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 11:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:29:37 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 12:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:30:12 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 12:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 12:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:32:01 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 12:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 12:19:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 15:49:28 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 13:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 16:36:40 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 13:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:13:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 16:43:30 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 16:43:30 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 13:14:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:14:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 16:44:41 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 13:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 13:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 14:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 14:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 17:57:36 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 17:58:16 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 17:59:07 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 17:59:29 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 18:00:18 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 14:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 18:03:12 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:33:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 18:03:31 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 18:18:11 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 14:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 14:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 18:19:33 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[23-Apr-2024 17:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 17:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[23-Apr-2024 20:53:01 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[24-Apr-2024 00:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-Apr-2024 00:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-Apr-2024 04:14:47 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[24-Apr-2024 00:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-Apr-2024 04:25:55 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[24-Apr-2024 13:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-Apr-2024 13:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[28-Apr-2024 11:40:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[28-Apr-2024 11:40:22 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[05-May-2024 11:51:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[05-May-2024 11:51:38 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[05-May-2024 15:35:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[05-May-2024 15:35:25 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[05-May-2024 16:00:52 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[05-May-2024 16:00:52 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 06:57:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 06:57:16 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 06:57:28 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 06:57:28 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 07:44:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 07:44:17 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 09:45:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 09:45:03 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 09:54:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 09:54:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[12-May-2024 10:06:56 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[12-May-2024 10:06:56 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[22-May-2024 13:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 13:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 13:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 13:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 13:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 17:30:13 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 17:30:14 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 17:30:15 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:02:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:42:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 18:15:45 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 18:15:47 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 18:15:49 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 18:17:22 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[22-May-2024 14:47:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 14:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 15:02:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 15:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 15:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 15:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 19:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[22-May-2024 19:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-May-2024 02:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-May-2024 14:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[24-May-2024 15:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 06:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 08:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 08:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 09:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 09:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 10:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 10:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 11:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 12:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 17:34:14 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[25-May-2024 14:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:11:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 14:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 15:17:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 15:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 15:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[25-May-2024 18:57:06 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[25-May-2024 16:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[26-May-2024 04:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[26-May-2024 05:01:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[26-May-2024 08:31:18 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[26-May-2024 08:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 07:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 07:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 07:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:28:45 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:31:19 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:36:48 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:12:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:13:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:44:01 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:44:20 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:14:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:44:36 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:45:15 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:45:37 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:45:45 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:46:46 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:50:07 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:20:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:51:45 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 11:53:14 Iran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:120
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\update.php(25): Employee->updateEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 120
+[27-May-2024 08:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 08:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:93
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\single_read.php(18): Employee->getSingleEmployee()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 93
+[27-May-2024 09:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\rest\class\employees.php:28
+Stack trace:
+#0 C:\inetpub\wwwroot\rest\api\read.php(13): Employee->getEmployees()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\rest\class\employees.php on line 28
+[27-May-2024 09:51:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[27-May-2024 09:51:49 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[01-Jun-2024 09:34:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[01-Jun-2024 09:34:07 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
+[02-Jun-2024 13:57:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 103
+[02-Jun-2024 13:57:55 UTC] PHP Warning:  Trying to access array offset on false in C:\inetpub\wwwroot\rest\class\employees.php on line 104
